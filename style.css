@@ -1,0 +1,21 @@
+#coupon {
+    background-color: cadetblue;
+    
+}
+#coupon_h4 {
+    color: greenyellow;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    font-size: 40px;
+    position: relative;
+    padding-top: 20px;
+    padding-bottom: 55px;
+    text-align: center;
+    text-shadow: black 2px 4px;
+}
+#hehe {
+    color: black;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    padding-bottom: 10px;
+    text-align: right;
+    
+}
